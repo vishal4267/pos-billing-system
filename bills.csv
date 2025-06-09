@@ -1,0 +1,50 @@
+user1,Dolo,1,20
+user1,Zincovit,1,15
+user1,Crocin,1,10
+user1,Cetrizine,1,12
+user1,Paracetamol,1,18
+Total,,,75
+
+admin,Dolo,8,160
+admin,Zincovit,3,45
+Total,,,205
+
+admin,Dolo,7,140
+Total,,,140
+
+admin,Dolo,10,200
+admin,Cetrizine,6,72
+admin,Paracetamol,14,252
+Total,,,524
+
+admin,Dolo,6,120
+admin,Crocin,3,30
+admin,Paracetamol,10,180
+Total,,,330
+
+admin,Dolo,1,20
+Total,,,20
+
+1749394963,2025-06-08 20:32:43,Ravi,Paracetamol,4,42.0
+1749394963,2025-06-08 20:32:43,Ravi,Ibuprofen,2,30.0
+1749394963,2025-06-08 20:32:43,Ravi,VitaminC,2,10.0
+1749395188,2025-06-08 20:36:28,Vishal,Paracetamol,10,105.0
+1749395188,2025-06-08 20:36:28,Vishal,Ibuprofen,10,150.0
+1749395315,2025-06-08 20:38:35,Mayur,Paracetamol,1,1.08
+1749395558,2025-06-08 20:42:38,tanmay,Ibuprofen,11,165.0
+1749449359,2025-06-09 11:39:19,Sham,Paracetamol,2,2.16
+1749449675,2025-06-09 11:44:35,Sham,VitaminC,54,270.0
+1749450281,2025-06-09 11:54:41,Ravi,Paracetamol,2,20.0
+1749451454,2025-06-09 12:14:14,Sham,Paracetamol,1,10.0
+1749452459,2025-06-09 12:30:59,Ravi,Paracetamol,2,20.0
+1749452459,2025-06-09 12:30:59,Ravi,Ibuprofen,2,30.0
+1749452459,2025-06-09 12:30:59,Ravi,Amoxicillin,1,25.0
+1749452459,2025-06-09 12:30:59,Ravi,VitaminC,1,5.0
+1749452544,2025-06-09 12:32:24,Sham,Paracetamol,0,0.0
+1749452544,2025-06-09 12:32:24,Sham,Ibuprofen,0,0.0
+1749452544,2025-06-09 12:32:24,Sham,Amoxicillin,0,0.0
+1749452544,2025-06-09 12:32:24,Sham,VitaminC,0,0.0
+1749452591,2025-06-09 12:33:11,karan,Paracetamol,7,70.0
+1749452591,2025-06-09 12:33:11,karan,Ibuprofen,0,0.0
+1749452591,2025-06-09 12:33:11,karan,Amoxicillin,0,0.0
+1749452591,2025-06-09 12:33:11,karan,VitaminC,0,0.0
